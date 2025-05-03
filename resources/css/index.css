@@ -1,0 +1,19 @@
+.heading {
+  font-family: Montserrat;
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 24px;
+  letter-spacing: 2px;
+  color: #292b2e;
+}
+.accordion-item {
+  border-color: transparent !important;
+}
+.accordion-button {
+  background-color: transparent !important;
+  border-bottom: none;
+}
+
+.accordion-button:focus {
+  box-shadow: none;
+}
